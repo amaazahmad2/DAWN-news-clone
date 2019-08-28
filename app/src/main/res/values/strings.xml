@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="splash_screen_tagline_1">News, analysis, and opinion from Pakistan</string>
+    <string name="splash_screen_tagline_2">and across the globe</string>
+</resources>

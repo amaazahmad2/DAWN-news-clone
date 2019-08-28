@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundColor">#101A23</color>
+    <color name="searchFragmentBackgroundColor">#D9101A23</color> <!-->for transparency/opacity, first two digits are used <-->
+    <color name="textColor">#F8FAFD</color>
+    <color name="textColor_updateStatus">#9E9D99</color>
+    <color name="bottomSheet_darkTextColor">#516069</color>
+</resources>
